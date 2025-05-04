@@ -3,4 +3,4 @@ made from django and python and its just login page with out any second page to 
 #
 just a simple sample for LOGIN PAGE
 # Quick LOOK:
-![Screenshot (18)](https://github.com/user-attachments/assets/3c1f11ed-dde4-4b8c-aaef-208e471142c5)
+![Screenshot (19)](https://github.com/user-attachments/assets/3c2dc666-cfbb-4d5d-b8c5-54c5b9088a07)
